@@ -1,6 +1,6 @@
 audit_header: false
-title:
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: Myrtle Beach's Best Real Estate Training
+description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -14,21 +14,21 @@ custom_links:
 
 
 client:
-  name:
+  name: Greg Harrelson
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
-  url:
+    I have been in the real estate business for over 20 years. I have been professionally trained by coaches like Mike, Matthew, Tom Ferry, Chet Holmes and Tony Robbins. I have experience in the area of general, commercial and real estate development. My goal is to empower my clients with the information necessary to make sound financial decisions while being sensitive to the experience one is looking for in real estate ownership. 
+  market: Myrtle Beach
+  brand: The Harrelson Group
+  brokerage: Century 21
+  address: 4999 Carolina Forest Blvd, Ste. 18<br>Myrtle Beach, SC 29579
+  phone: 843-903-3550
+  phone_type: Office
+  phone2: 843-457-7816
+  phone2_type: Cell
+  email: gregharrelson@gmail.com
+  url: http://www.c21TheHarrelsonGroup.com
 
 lender:
   show_section: false
@@ -44,11 +44,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/myrtlebeachrealestatesales
+  linkedin_url: https://www.linkedin.com/in/gregharrelson/
   gplus_url:
-  youtube_url:
-  twitter_url:
+  youtube_url: https://www.youtube.com/c/c21theharrelsongroup
+  twitter_url: https://twitter.com/Gregharrelson
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -66,7 +66,7 @@ podcast:
   author: '-- CLIENT NAME --'
 
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: /img/headshot.JPG
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: -- MARKET -- Real Estate Video Blog
@@ -74,8 +74,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#BDAE85'
+  theme_color: '#404042'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
