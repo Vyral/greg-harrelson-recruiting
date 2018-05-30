@@ -61,14 +61,14 @@ permalink: /join-our-team/
 </ul></p>
 
 <p><strong>If you like this plan, here’s a step-by-step look at what will happen when you apply:</strong>
-<ul class="indent">
-<li>1. We’re going to have a short phone conversation to make sure you’re a fit for this. </li>
-<li>2. You’re going to attend one of my free workshops/training to write a business plan. </li>
-<li>3. You’re going shadow a few agents for a day or so. </li>
-<li>4. We will kick off our Fast Start Program in order to get you producing income quickly.</li>
-<li>5. You will have access to our weekly coaching and boot camp training.</li>
-<li>6. We will build out your profiles on our websites, build a website for you and connect you to our Social Media Manager.</li>
-</ul></p>
+<ol class="indent">
+<li>We’re going to have a short phone conversation to make sure you’re a fit for this. </li>
+<li>You’re going to attend one of my free workshops/training to write a business plan. </li>
+<li>You’re going shadow a few agents for a day or so. </li>
+<li>We will kick off our Fast Start Program in order to get you producing income quickly.</li>
+<li>You will have access to our weekly coaching and boot camp training.</li>
+<li>We will build out your profiles on our websites, build a website for you and connect you to our Social Media Manager.</li>
+</ol></p>
 
 <p><strong>I personally want to invite you to our company and share the blueprint for success that has been laid out and executed successfully by some of the top agents in the market.</strong></p>
 
