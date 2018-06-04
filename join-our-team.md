@@ -55,7 +55,7 @@ permalink: /join-our-team/
 <p><strong>Without our systems, you could:</strong>
 <ul class="indent">
 <li>Work for a competing broker and go out on your own. But, you have to pay for all marketing, lead systems, office/desk space, etc.</li>
-<li>Work for Century 21 as an independent agent</li>
+<li>Work for Century 21 as an independent agent.</li>
 <li>Join a “new” team that is just starting and learning to set up the systems. The same systems and solutions we have had in place and are continually perfecting since 2001.</li>
 <li>Try staying with your current brokerage and applying our concepts from scratch. But, why risk trying to replicate our success when you could simply join us?</li>
 </ul></p>
