@@ -47,4 +47,10 @@
 <url>
 <loc>localhost:4000/thankyou/</loc>
 </url>
+<url>
+<loc>localhost:4000/videos/</loc>
+</url>
+<url>
+<loc>localhost:4000/vision/</loc>
+</url>
 </urlset>

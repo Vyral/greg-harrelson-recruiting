@@ -5,73 +5,72 @@ permalink: /strategy-call/
 ---
 
 <div class="recruiting-page">
-<h1 class="join-us">Free Real Estate Business Planning Call</h1>
-<h5 class="join-us-subtitle">Are you a hungry real estate agent looking for more?</h5>
+<h1 class="join-us">Free Real Estate Agent Business Builder Mastermind Call</h1>
+<h5 class="join-us-subtitle">Are you a motivated real estate agent wanting to build a profitable real estate career in Myrtle Beach and the surrounding areas?</h5>
 
-<p>Dear Fellow Agent:</p>
+<p>Dear Future Top Agent:</p>
 
-<p>Need direction and focus to sell more homes?</p>
+<p>Would you like a business plan and blueprint that can help you get on a production fast track?</p>
 
-<p>I’ll meet with you one-on-one to help you write a business plan you can implement immediately to generate leads, appointments, and sales.</p>
+<p>Could you benefit from a proven Top Agent Blueprint?</p>
 
-<p><strong>I know how challenging it is to sell real estate.</strong></p>
+<p>As you likely know, I have a passion for developing top producers. More of my agents are in the Top 10 Agent in the market than any other company. And, we have more agents in the Top 50 than any other company.</p>
 
-<p>You have discount brokerages, competing agents, and hundreds of ways to get clients (all are not equal, I’ll tell you).</p>
+<p>The key to growing a profitable career in real estate is to follow proven strategies. We provide the resources, systems, support and coaching to get you to the top.</p>
 
-<p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
+<p>I would be happy to meet with you and have a one-on- one conversation to help you design a business plan that will give you direction. Most agents have no idea how to get started on a growth plan so we will discuss a plan that fits your personality and helps you reach your goals sooner than later. </p>
 
-<!-- {% include strategy-photos.html %} -->
+<p><strong>Selling real estate in Myrtle Beach can sometimes have its challenges.</strong></p>
 
-<p>My name is ____ and I’ve sold ____ of homes to date.</p>
+<p>Let’s mastermind together and make sure that you are on the path to building a career worth having.</p>
 
-<p>I want to help you sell more homes.</p>
+<p>My mission is to provide support that will help you sell more homes and help you reach your financial goals.</p>
 
-<p>I’ll learn about your needs, goals, and why you started selling real estate. I’m happy to offer my insight on what I would do in your situation to sell more homes.</p>
+<p>In our meeting, I will learn more about what you are looking to accomplish and can make suggestions.  I will offer insight on how you can get there.</p>
 
-<p>I also share with you what we’re doing that works to generate and sales.</p>
+<p>When we are done, you will have a plan of action in place to build your Myrtle Beach real estate career.</p>
 
-<p>Once I understand how you like to do business that’s authentic to you (referral, prospecting, marketing, events, etc), I’ll help you write a business plan tailored just for you.</p>
-
-<p>You’ll walk away with a plan of action, with steps you can take right away, to find homeowners who want to sell their home who list with you.</p>
-
-<p>This will help you get the commission consistency and the freedom we all want from our business.</p>
+<p>Our agent plans are designed to help you earn consistent commission and reward you with the freedom of having your own business.</p>
 
 <hr>
 <div class="qanda">
-<p class="section-title">Here’s what a few agents say about working with me…</p>
+<p class="section-title">Listen to what some agents say about working with me…</p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">I found Greg through searching on YouTube and listening to his Level Up Podcast. I was so inspired that I called him and asked to join his company. I actually lived in Minnesota at the time but decided if I were going to be in real estate than it has to be with him. In my first 10 days of being licensed, I listed 5 properties.</span><br>
+<span class="author">Jason Wang</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">I joined forces with Greg years ago after a lengthy career in corporate America. My first year licensed yielded 40 closed deals, more time with my family and the beginning of a great career. Now I do over 150+ per year and have now partnered with Greg in developing agents and building new offices.</span><br>
+<span class="author">Brendon Payne</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">I closed 40 deals my first year. 85 deals my second year. 185 deals my third year. All I did was follow Greg’s system.</span><br>
+<span class="author">Kevin Mills</span></p>
+
+<p><span class="quote">Greg and I met prior to finishing college. I got licensed, learned scripts and focused on executing the training and resources that are provided. Thanks to these resources, I average over 100 deals per year, am building a team and don’t have to work nights or weekends.</span><br>
+<span class="author">Mitch Gainforth</span></p>
+
+<p><span class="quote">Before I started in real estate I researched it extensively.  I looked at a lot of material especially in the area of generating. I looked at all the big time Coaching programs and after all my research I knew I had to go with Greg. Greg’s insight and understanding of the business and most importantly how to generate is unmatched.  Period. I listened to everything he had to say.  Watched every video he did and used the process he not only recommends but used himself successfully for years.
+I’m so glad I did it without being tainted by other “easier get rich quick” schemes. I did 41 deals my first full year. 71 deals my second year and now on to do between 125-150 deals this year.  That because I learned Greg’s system and know how to generate. Once you learn that then you can scale as big as you want. I highly, highly recommend following Greg. No question.</span><br>
+<span class="author">Abe Safa</span></p>
 </div>
 <hr>
 
-<p>You don’t need to pay a bunch of money to a real estate coach.</p>
+<p><strong>Why am I willing to meet with No Obligation?</strong></p>
 
-<p>Why am I offering this?</p>
+<p>I have been coaching real estate agents for over 15 years and I enjoy the process of helping others become top producers.</p>
 
-<p>I’ll help you for free in return that maybe, over the long term – and only if it makes sense - you’d like to learn more about working at our brokerage.</p>
+<p>I am hoping to help you and through the process, you may like something you hear about my company and like to learn more. Of course, that may not happen and that is fine with me because that is not the intent of the conversation.</p>
 
-<p>Let me be clear that is not the intent of the meeting. That’s another conversation for another time and only if you have any interest.</p>
+<p>If you feel this will help, you owe it to yourself to learn as much as you can.</p>
 
-<p>I also figure we’ll do business together someday and I would like to get to know you. I enjoy seeing real estate agents succeed. It’s fulfilling, and I love it.</p>
+<p><strong>Go ahead and request the free one-on-one business strategy meeting with me.</strong></p>
 
-<p><strong>I invite you to request a free one-on-one business strategy meeting with me.</strong> We can meet for coffee, or even if it’s more convenient, a phone call or a video conference works, too.</p>
+<p>We can meet at a Starbucks or anywhere you feel is best. If you feel more comfortable chatting on the phone then we can do that also.</p>
 
-<p>I have a questionnaire I would like you fill out so that when we meet so I’m prepared to offer you specific advice. When you request a call, I’ll email it to you to complete before the meeting.</p>
+<p>Furthermore, in order to make our meeting more productive, I will email you a simple questionnaire to fill out so I can better advise you on business building strategies.</p>
 
-<p>Look forward to meeting with you. Let’s grow your business.</p>
+<p>I look forward to helping your grow your business.</p>
 
-<p>Sincerely,</p>
-<p>{{site.data.settings.client.name}}</p>
-
-
-<h1 class="join-us">Request a FREE One-on-one Business Planning Meeting</h1>
+<h1 class="join-us">Free Real Estate Agent Business Builder Mastermind Call</h1>
 <h5 class="join-us-subtitle">Enter your contact information to schedule your time.</h5>
 
 <form method="post" class="home-value cta-forms" action="http://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
