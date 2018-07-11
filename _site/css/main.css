@@ -1504,15 +1504,18 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 40rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(0px 2px 7px #242B1E);
+  filter: drop-shadow(0px 2px 7px #242B1E); }
 
 .site-title {
-  color: #BDAE85;
+  color: #fff;
   text-align: center;
-  font-weight: 400;
+  font-weight: 700;
   padding-bottom: 2rem;
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  margin-top: 10rem;
+  -webkit-filter: drop-shadow(0px 2px 7px #242B1E);
+  filter: drop-shadow(0px 2px 7px #242B1E); }
 
 @media (max-width: 1100px) {
   .site-title {
@@ -1964,7 +1967,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px transparent; }
+  text-shadow: 0px 2px 7px #242B1E; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -1979,7 +1982,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 0px 2px 7px #242B1E;
   margin-bottom: 1rem; }
 
 .tag {
@@ -1990,7 +1993,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 0px 2px 7px #242B1E;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2572,6 +2575,12 @@ form select {
 .asterisk {
   color: #fff; }
 
+.form-title {
+  font-size: 20px;
+  color: #404042;
+  font-weight: 700;
+  text-align: center; }
+
 .contact-form {
   width: 100%;
   margin-bottom: 0; }
@@ -2715,8 +2724,8 @@ form select {
   max-width: 40rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(0px 2px 7px #242B1E);
+  filter: drop-shadow(0px 2px 7px #242B1E); }
 
 .page-hero-img {
   background-position: center;
