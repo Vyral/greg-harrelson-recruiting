@@ -29,4 +29,4 @@ With all the technology at our disposal, we have never been more disconnected as
 * Don’t focus on the length of conversations– focus on asking questions.
 * Scripts can be very helpful, as they are filled with questions that lead towards genuine connections.
 
-**Want to Know Where Greg Harrelson Gets His DATA?**<br>Click here: https://www.colerealtyresource.com/landing/realestatesalessolutions/
+**Want to Know Where Greg Harrelson Gets His DATA?**<br>Click here: [https://www.colerealtyresource.com/landing/realestatesalessolutions/](https://www.colerealtyresource.com/landing/realestatesalessolutions/){: target="_blank"}
