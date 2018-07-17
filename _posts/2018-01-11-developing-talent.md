@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Developing Talent
-date: 2018-07-17 16:01:23
+date: 2018-01-11 16:01:00
 tags:
 excerpt: >-
   On this mini-episode, we talk about developing talent, helping people grow and
@@ -27,7 +27,7 @@ Developing talent is an important part of going from agent to entrepreneur. How 
 **Takeaways + Tactics**
 
 * If you can leverage a person’s strengths, you can get to revenue more easily.
-* You’ll be able to leverage their strengths faster than you can strengthen their weaknesses. &nbsp;
+* You’ll be able to leverage their strengths faster than you can strengthen their weaknesses.  
 * Every transaction is going to come from a conversation.
 
 Most people’s first instinct when it comes to developing talent is to try and get people emotionally invested and fired up by the possibilities they see for that person. What you should actually do first is connect with them on what’s important to them. Honor them by showing that you actually want to know them. When you get into their world you will understand them better. When you do that, their mindset changes, they gain confidence and they become more coachable. This will get you to more income, faster.
