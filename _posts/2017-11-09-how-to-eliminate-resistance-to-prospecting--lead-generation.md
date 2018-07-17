@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Eliminate Resistance to Prospecting & Lead Generation
-date: 2018-07-17 16:08:08
+date: 2017-11-09 16:08:00
 tags:
   - Lead Generation
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: bOLm3zjCi_0
 
 {% include youtube.html %}
 
-People are looking for a method of lead generation and prospecting that feels comfortable to them. However, this comfort is dictated by bias---not reality. How do you get inspired to make a breakthrough in your resistance to prospecting? Why do people struggle to say they are salespeople? How do you use contribution to get over the monetary motivation? **On this episode, we discuss the real reason people resist prospecting and how to overcome it.**
+People are looking for a method of lead generation and prospecting that feels comfortable to them. However, this comfort is dictated by bias—not reality. How do you get inspired to make a breakthrough in your resistance to prospecting? Why do people struggle to say they are salespeople? How do you use contribution to get over the monetary motivation? **On this episode, we discuss the real reason people resist prospecting and how to overcome it.**
 
 {% include pullquote.html %}
 
@@ -40,6 +40,6 @@ It is impossible to successfully overcome hesitation towards prospecting and lea
 
 **Resources**
 
-[InfusionSoft for real estate.&nbsp;](http://www.realestatesalessolutions.com/){: target="_blank"}Get up and running fast with our Real Estate Package! 9 pre-built Infusionsoft campaigns, all ready to go.
+[InfusionSoft for real estate. ](http://www.realestatesalessolutions.com/){: target="_blank"}Get up and running fast with our Real Estate Package! 9 pre-built Infusionsoft campaigns, all ready to go.
 
-[Connect on Facebook.](https://www.facebook.com/gregharrelson?fref=ts){: target="_blank"}&nbsp;Follow Greg for more motivational content to take your real estate business to the next level
+[Connect on Facebook.](https://www.facebook.com/gregharrelson?fref=ts){: target="_blank"} Follow Greg for more motivational content to take your real estate business to the next level
