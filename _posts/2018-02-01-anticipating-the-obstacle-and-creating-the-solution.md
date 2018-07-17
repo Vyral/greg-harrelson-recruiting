@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anticipating the Obstacle and Creating the Solution
-date: 2018-07-17 15:52:46
+date: 2018-02-01 15:52:00
 tags:
 excerpt: we talk about the importance of being ready for potential market risks.
 enclosure: >-
