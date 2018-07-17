@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Distractions, Momentum & Opportunity: How To Clean Up in a Distracted Market'
-date: 2018-07-17 16:12:20
+date: 2017-10-12 16:12:00
 tags:
 excerpt: >-
   On this episode, we discuss how to maintain momentum, even when people are
