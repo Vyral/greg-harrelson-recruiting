@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Making Connections, Not Just Contacts'
-date: 2018-07-17 15:26:27
+date: 2018-07-12 15:26:00
 tags:
 excerpt: 'To get business, we have to make true and authentic connections with people.'
 enclosure: >-
