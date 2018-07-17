@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Increasing Your Market Share in a Hot Market
-date: 2018-07-17 15:38:44
+date: 2018-05-10 15:38:00
 tags:
 excerpt: >-
   On this episode, we talk about what it takes to grow your business when the
@@ -27,9 +27,9 @@ In a hot market, skilled agents find themselves competing with less skilled agen
 **Takeaways + Tactics**
 
 * In a down market the consumer is hiring for skills; But in a hot market they’re just hiring warm bodies.
-* There are still plenty of transactions in a down market-- there are just fewer agents going after them.
+* There are still plenty of transactions in a down market– there are just fewer agents going after them.
 * Don’t reinvent the wheel or focus on shiny objects. Double down on what’s working already.
 
 **In a hot market, you get more people with low skill sets flocking to the real estate industry because they think they can make some quick money.** In a down market these people leave the business and the skilled agents are in much higher demand. In a hot market, we have more money to buy more shiny objects and open up more circles that we never complete. Those things become distractions that stunt growth. In a down market there are less distractions, and the agents with skill and experience rise to the top, especially when they focus on what works.
 
-Learn more about Infusionsoft for real estate:&nbsp;[http://www.realestatesalessolutions.com/](http://www.realestatesalessolutions.com/){: target="_blank"}
+Learn more about Infusionsoft for real estate: [http://www.realestatesalessolutions.com/](http://www.realestatesalessolutions.com/){: target="_blank"}
