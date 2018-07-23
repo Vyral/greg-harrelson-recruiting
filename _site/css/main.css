@@ -1400,10 +1400,10 @@ html[xmlns] .flexslider .slides {
   padding-left: 15px; }
 
 .navbar-left {
-  margin-top: 2rem; }
+  margin-top: 0.5rem; }
 
 .navbar-right {
-  margin-top: 2rem; }
+  margin-top: 0.5rem; }
 
 .nav-logo {
   float: left !important;
@@ -1419,7 +1419,7 @@ html[xmlns] .flexslider .slides {
     height: 300px; }
 
   .nav-logo-small {
-    max-width: 200px;
+    max-width: 175px;
     margin-top: -10px; } }
 @media(max-width: 347px) {
   .navbar {
@@ -1491,7 +1491,7 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  height: 400px; }
+  height: 350px; }
 
 #hero {
   background-position: center;
@@ -1499,23 +1499,27 @@ label.tree-toggle {
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
-  padding-top: 7.5rem; }
+  padding-top: 5rem; }
 
 .site-logo {
   width: 90%;
   max-width: 40rem;
+  margin-top: 9rem;
   -webkit-filter: drop-shadow(0px 2px 7px #242B1E);
   filter: drop-shadow(0px 2px 7px #242B1E); }
 
 .site-title {
-  color: #fff;
+  color: #BDAE85;
   text-align: center;
-  font-weight: 700;
+  font-weight: 400;
   padding-bottom: 2rem;
-  margin-bottom: 0;
-  margin-top: 10rem;
-  -webkit-filter: drop-shadow(0px 2px 7px #242B1E);
-  filter: drop-shadow(0px 2px 7px #242B1E); }
+  margin-bottom: 0; }
+
+.apply-button {
+  margin: 3rem 0 0 0; }
+
+#apply {
+  font-size: 20px; }
 
 @media (max-width: 1100px) {
   .site-title {
