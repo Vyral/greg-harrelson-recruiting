@@ -1,5 +1,5 @@
 ---
-layout: recruiting
+layout: strategy
 title: Free Strategy Call
 permalink: /strategy-call/
 ---

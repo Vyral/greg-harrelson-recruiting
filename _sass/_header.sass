@@ -18,7 +18,17 @@
 .site-logo
 	width: 90%
 	max-width: $logo-width
-	margin-top: 9rem
+	margin: 0 auto
+	padding-top: 5rem
+	display: block
+	@include filter(drop-shadow($header-shadow))
+
+.header-logo
+	width: 90%
+	max-width: $logo-width
+	margin: 0 auto
+	padding-top: $nav-height + 5rem
+	display: block
 	@include filter(drop-shadow($header-shadow))
 
 .site-title

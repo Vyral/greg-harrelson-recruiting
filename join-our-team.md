@@ -1,10 +1,10 @@
 ---
-layout: recruiting
+layout: default
 title: Join Our Team
 permalink: /join-our-team/
 ---
 
-<div class="recruiting-page">
+<div class="join-our-team">
 <h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
 <h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
 <div class="recruiting-photo">

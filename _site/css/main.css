@@ -1403,7 +1403,10 @@ html[xmlns] .flexslider .slides {
   margin-top: 0.5rem; }
 
 .navbar-right {
-  margin-top: 0.5rem; }
+  margin-top: 0.5rem;
+  margin-right: 10px; }
+  .navbar-right a {
+    font-weight: bold; }
 
 .nav-logo {
   float: left !important;
@@ -1509,7 +1512,18 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 50rem;
-  margin-top: 9rem;
+  margin: 0 auto;
+  padding-top: 5rem;
+  display: block;
+  -webkit-filter: drop-shadow(0px 2px 7px #EFEAD7);
+  filter: drop-shadow(0px 2px 7px #EFEAD7); }
+
+.header-logo {
+  width: 90%;
+  max-width: 50rem;
+  margin: 0 auto;
+  padding-top: 10rem;
+  display: block;
   -webkit-filter: drop-shadow(0px 2px 7px #EFEAD7);
   filter: drop-shadow(0px 2px 7px #EFEAD7); }
 
@@ -2436,7 +2450,8 @@ table tr, table td {
   color: #5d9bd3;
   padding: 2rem;
   text-align: center;
-  font-size: 18px; }
+  font-size: 18px;
+  margin-bottom: 0; }
   .footer hr {
     border-top: 2px solid #BDAE85; }
   .footer address {
@@ -2736,9 +2751,40 @@ form select {
   margin: 0 auto;
   margin: 2rem;
   padding-bottom: 2.5rem;
+  text-align: center;
   border-bottom: 5px solid #BDAE85; }
   .simple-cta-container:hover {
     background: #fff; }
+
+.small-cta-container {
+  width: 75%;
+  background: rgba(238, 238, 238, 0.9);
+  margin: 4rem auto;
+  padding-bottom: 2.5rem;
+  text-align: center;
+  border-bottom: 5px solid #BDAE85; }
+  .small-cta-container:hover {
+    background: #fff; }
+
+@media (max-width: 1100px) {
+  .small-cta-container {
+    margin: 4rem auto; } }
+@media (max-width: 760px) {
+  .small-cta-container {
+    margin: 3rem auto;
+    width: 50%; }
+
+  .large-cta-container {
+    display: none; }
+
+  .hero {
+    padding-top: 2rem; } }
+.large-cta-container {
+  background: #fff;
+  margin: 2rem auto;
+  padding-bottom: 2.5rem;
+  text-align: center;
+  border-bottom: 5px solid #BDAE85; }
 
 .simple-cta-photo {
   width: 100%; }
@@ -2751,6 +2797,9 @@ form select {
   padding: 1rem;
   margin-bottom: 0; }
 
+@media (max-width: 400px) {
+  .secondary-cta-title {
+    font-size: 20px; } }
 .secondary-subtitle {
   font-size: 20px;
   color: #000;
@@ -2788,6 +2837,37 @@ form select {
     box-shadow: 0 0 0 #BDAE85;
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
+
+.container-fluid {
+  padding: 0; }
+
+.events-logos {
+  width: 35%;
+  margin: 0 auto;
+  display: block; }
+
+@media (max-width: 760px) {
+  .events-logos {
+    width: 50%; } }
+@media (max-width: 600px) {
+  .events-logos {
+    width: 75%; } }
+.event-title {
+  text-align: center;
+  font-weight: bold; }
+
+.event-sidebar {
+  width: 90%;
+  display: block;
+  margin: 0 auto; }
+
+.events {
+  font-size: 18px;
+  text-align: center;
+  padding: 0 15px; }
+
+.whitespace {
+  margin-top: 3rem; }
 
 .recruiting {
   text-align: center; }
@@ -2834,7 +2914,12 @@ form select {
 
 .recruiting-page {
   Font-size: 18px;
-  width: 75%;
+  width: 90%;
+  margin: 3rem auto;
+  color: #000; }
+
+.join-our-team {
+  Font-size: 18px;
   margin: 0 auto;
   color: #000; }
 
