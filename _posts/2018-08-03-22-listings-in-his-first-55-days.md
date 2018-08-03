@@ -3,6 +3,7 @@ layout: post
 title: 22 Listings in His First 55 Days
 date: 2018-08-03 00:00:00
 tags:
+  - Transaction Management
 excerpt: Are you worried about making it in real estate?
 enclosure:
 pullquote:
@@ -17,4 +18,4 @@ youtube_code: eyv1uwa5Kvg
 
 Are you worried about making it in real estate?
 
-Learn how Greg Harrelson is working with a new agent, Jason Wang, and they did in order for Jason to &nbsp;take 22 listings in his first 55 days of being licensed.
+Learn how Greg Harrelson is working with a new agent, Jason Wang, and they did in order for Jason to  take 22 listings in his first 55 days of being licensed.
