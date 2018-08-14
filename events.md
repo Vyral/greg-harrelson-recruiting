@@ -37,3 +37,5 @@ Unfortunately, too many agents are wasting money on marketing that does not work
 marketing strategies that matter to your client and helps you make more sales.</p>
 
 <hr>
+
+{% include events-form.html %}

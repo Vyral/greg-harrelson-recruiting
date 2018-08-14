@@ -2717,6 +2717,9 @@ form select {
 .newsletter {
   background: #38383a; }
 
+.row {
+  margin: 0; }
+
 #side-logo {
   width: 90%;
   margin: 0 auto; }
@@ -2868,6 +2871,18 @@ form select {
 
 .whitespace {
   margin-top: 3rem; }
+
+.form-content p {
+  font-size: 20px; }
+.form-content h5 {
+  font-weight: bold; }
+.form-content h1 {
+  text-align: center; }
+
+.form-info {
+  background-color: #BDAE85;
+  padding: 10px 20px;
+  text-align: center; }
 
 .recruiting {
   text-align: center; }
