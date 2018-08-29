@@ -1515,8 +1515,8 @@ label.tree-toggle {
   margin: 0 auto;
   padding-top: 5rem;
   display: block;
-  -webkit-filter: drop-shadow(0px 2px 7px #EFEAD7);
-  filter: drop-shadow(0px 2px 7px #EFEAD7); }
+  -webkit-filter: drop-shadow(0px 2px 7px #ffffff);
+  filter: drop-shadow(0px 2px 7px #ffffff); }
 
 .header-logo {
   width: 90%;
@@ -1524,8 +1524,8 @@ label.tree-toggle {
   margin: 0 auto;
   padding-top: 10rem;
   display: block;
-  -webkit-filter: drop-shadow(0px 2px 7px #EFEAD7);
-  filter: drop-shadow(0px 2px 7px #EFEAD7); }
+  -webkit-filter: drop-shadow(0px 2px 7px #ffffff);
+  filter: drop-shadow(0px 2px 7px #ffffff); }
 
 .site-title {
   color: #BDAE85;
@@ -1555,16 +1555,16 @@ label.tree-toggle {
   font-size: 60px;
   line-height: 70px;
   padding-top: 2rem;
-  color: #404042;
-  -webkit-filter: drop-shadow(0px 2px 7px #EFEAD7);
-  filter: drop-shadow(0px 2px 7px #EFEAD7); }
+  color: #000000;
+  -webkit-filter: drop-shadow(0px 2px 7px #ffffff);
+  filter: drop-shadow(0px 2px 7px #ffffff); }
 
 .hero-cta-text {
   font-weight: bold;
   font-size: 24px;
-  color: #404042;
-  -webkit-filter: drop-shadow(0px 2px 7px #EFEAD7);
-  filter: drop-shadow(0px 2px 7px #EFEAD7); }
+  color: #000000;
+  -webkit-filter: drop-shadow(0px 2px 7px #ffffff);
+  filter: drop-shadow(0px 2px 7px #ffffff); }
 
 #apply {
   text-transform: capitalize;
@@ -2027,7 +2027,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px #EFEAD7; }
+  text-shadow: 0px 2px 7px #ffffff; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2042,7 +2042,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px #EFEAD7;
+  text-shadow: 0px 2px 7px #ffffff;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2053,7 +2053,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px #EFEAD7;
+  text-shadow: 0px 2px 7px #ffffff;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2943,8 +2943,8 @@ form select {
   max-width: 50rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px #EFEAD7);
-  filter: drop-shadow(0px 2px 7px #EFEAD7); }
+  -webkit-filter: drop-shadow(0px 2px 7px #ffffff);
+  filter: drop-shadow(0px 2px 7px #ffffff); }
 
 .page-hero-img {
   background-position: center;
