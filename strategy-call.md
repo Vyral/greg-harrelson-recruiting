@@ -73,7 +73,7 @@ I’m so glad I did it without being tainted by other “easier get rich quick�
 <h1 class="join-us">Free Real Estate Agent Business Builder Mastermind Call</h1>
 <h5 class="join-us-subtitle">Enter your contact information to schedule your time.</h5>
 
-<form method="post" class="home-value cta-forms" action="http://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
+<form method="post" class="home-value cta-forms" action="https://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
 					<fieldset>
 						<label for="name">Name*</label> <input type="text" required="" name="name" />
 						<label for="phone">Phone Number </label> <input type="tel" name="phone" />
