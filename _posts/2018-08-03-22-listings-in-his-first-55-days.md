@@ -16,6 +16,8 @@ youtube_code: eyv1uwa5Kvg
 
 {% include youtube.html %}
 
-<center>How does Jason Wang overcome challenges and succeed? Let’s find out today.</center>
+<center><em>How does Jason Wang overcome challenges and succeed? Let&rsquo;s find out today.</em></center>
+
+&nbsp;
 
 Today I speak with one of the newest agents at The Harrelson Group: Jason Wang. Jason, who has been licensed and working with us for only 55 days, has taken on a whopping 22 listings in that short amount of time. This may be unbelievable to some, but thanks to his commitment to the process and mentality surrounding coaching, he was able to reach a level of success many newer agents could not.
