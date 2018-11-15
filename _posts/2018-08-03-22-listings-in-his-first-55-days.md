@@ -16,6 +16,6 @@ youtube_code: eyv1uwa5Kvg
 
 {% include youtube.html %}
 
-Are you worried about making it in real estate?
+How does Jason Wang overcome challenges and succeed? Let’s find out today.
 
-Learn how Greg Harrelson is working with a new agent, Jason Wang, and what they did in order for Jason to take 22 listings in his first 55 days of being licensed.
+Today I speak with one of the newest agents at The Harrelson Group: Jason Wang. Jason, who has been licensed and working with us for only 55 days, has taken on a whopping 22 listings in that short amount of time. This may be unbelievable to some, but thanks to his commitment to the process and mentality surrounding coaching, he was able to reach a level of success many newer agents could not.
