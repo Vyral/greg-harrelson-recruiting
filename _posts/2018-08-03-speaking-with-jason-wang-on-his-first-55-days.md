@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 22 Listings in His First 55 Days
+title: Speaking With Jason Wang on His First 55 Days
 date: 2018-08-03 00:00:00
 tags:
   - Transaction Management
