@@ -4,13 +4,13 @@ title: 22 Listings in His First 55 Days
 date: 2018-08-03 00:00:00
 tags:
   - Transaction Management
-excerpt: Are you worried about making it in real estate?
+excerpt: How does Jason Wang overcome challenges and succeed? Let’s find out today.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/greg-harrelson-ss-no-play.jpg
 youtube_code: eyv1uwa5Kvg
 ---
 
