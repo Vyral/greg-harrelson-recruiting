@@ -18,4 +18,4 @@ youtube_code: eyv1uwa5Kvg
 
 Are you worried about making it in real estate?
 
-Learn how Greg Harrelson is working with a new agent, Jason Wang, and they did in order for Jason to  take 22 listings in his first 55 days of being licensed.
+Learn how Greg Harrelson is working with a new agent, Jason Wang, and what they did in order for Jason to take 22 listings in his first 55 days of being licensed.
