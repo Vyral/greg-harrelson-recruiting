@@ -21,7 +21,9 @@ youtube_code: cjPX4PFVDEg
 
 {% include youtube.html %}
 
-<center>What kind of growth or turbulence can we expect from the market in 2019? It may not matter to you if you apply these 5 steps to your own business.</center>
+<center><em>What kind of growth or turbulence can we expect from the market in 2019? It may not matter to you if you apply these 5 steps to your own business.</em></center>
+
+&nbsp;
 
 The new year is right around the corner, and a pressing question looms over the horizon for our market—will 2019 be a boom or bust? **The market is buzzing with dialogue concerning this question**. While we’ve seen continued growth for agents across the board and a healthy market driving these good numbers over the last few years, it’s impossible to ignore what’s in front of us—Is the market going up or down?
 
