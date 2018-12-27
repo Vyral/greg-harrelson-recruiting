@@ -19,7 +19,9 @@ youtube_code: _CxZ0X4_Q3I
 
 {% include youtube.html %}
 
-<center>We’d love to help you reach your 2019 goals. Here are a few tips that we recommend.</center>
+<center><em>We&rsquo;d love to help you reach your 2019 goals. Here are a few tips that we recommend.</em></center>
+
+&nbsp;
 
 Have you ever wondered what it would take for you to start your new year ahead of your goals? Today **I have three things you can do to generate momentum quickly and get ahead of your goals to make 2019 your best year yet:**
 
