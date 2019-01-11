@@ -21,7 +21,7 @@ youtube_code: dZG575_Pk84
 
 {% include youtube.html %}
 
-Is your broker providing you the resources you need to grow your business? If not, perhaps it’s time to talk to them about it.
+<center>Is your broker providing you the resources you need to grow your business? If not, perhaps it’s time to talk to them about it.</center>
 
 Are you tired of brokers asking you what you’re going to do to grow your business, or bring more listings into the company, or write more contracts?
 
