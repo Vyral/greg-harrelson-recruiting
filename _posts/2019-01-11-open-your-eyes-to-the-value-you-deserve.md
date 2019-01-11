@@ -10,8 +10,8 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Greg+Harrelson/Videos/The+Harrelson+Group+-+Open+Your+Eyes+to+the+Value+You+Deserve.mp4
 pullquote: >-
-  I believe your company should provide you with the CRMs, strategies, and other
-  data you need to generate listings and buyer opportunities.
+  Your company should provide you with the CRMs, strategies, and other data you
+  need to generate listings and buyer opportunities.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -23,7 +23,7 @@ youtube_code: dZG575_Pk84
 
 <center><em>Is your broker providing you the resources you need to grow your business? If not, perhaps it&rsquo;s time to talk to them about it.</em></center>
 
-&nbsp;
+ 
 
 Are you tired of brokers asking you what you’re going to do to grow your business, or bring more listings into the company, or write more contracts?
 
