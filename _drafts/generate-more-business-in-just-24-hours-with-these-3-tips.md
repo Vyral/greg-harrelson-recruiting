@@ -19,7 +19,7 @@ youtube_code: Xdkw85X2Th0
 
 {% include youtube.html %}
 
-Today I’ll be sharing three lead generation tips that can help you gain more business in less than 24 hours.
+<center>Today I’ll be sharing three lead generation tips that can help you gain more business in less than 24 hours.</center>
 
 Acquiring new leads doesn’t have to be complicated. In fact, today I’ll be sharing three simple things you do to generate leads in the next 24 hours.
 
