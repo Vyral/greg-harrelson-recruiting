@@ -23,7 +23,7 @@ youtube_code: Xdkw85X2Th0
 
 &nbsp;
 
-Acquiring new leads doesn’t have to be complicated. In fact, today I’ll be sharing three simple things you do to generate leads in the next 24 hours.
+Acquiring new leads doesn’t have to be complicated. In fact, today I’ll be sharing three simple things you can do to generate leads in the next 24 hours.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
