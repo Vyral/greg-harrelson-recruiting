@@ -29,7 +29,7 @@ Acquiring new leads doesn’t have to be complicated. In fact, today I’ll be s
 
 0:37 - An introduction to today’s topic
 
-0:58 - Tip No. 1: Text 40 people from your personal contact list
+0:58 - Tip No. 1: Text 40 people from your personal contact lists
 
 1:26 - The script you can use for this text message to your contacts and why it works
 
@@ -41,6 +41,6 @@ Acquiring new leads doesn’t have to be complicated. In fact, today I’ll be s
 
 5:56 - An example of the results you can see by utilizing these tips
 
-6:26 - A message about the Harrelson Group’s current growth and how we can help you expand, as well
+6:26 - A message about the Harrelson Group’s current growth and how we can help you expand
 
 If you have any other questions or would like more information, feel free to give my team or me a call or send us an email. We look forward to hearing from you soon.
