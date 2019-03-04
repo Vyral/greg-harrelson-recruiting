@@ -18,7 +18,7 @@ youtube_code: HdrXBASoHKU
 
 {% include youtube.html %}
 
-Have you heard of the Nextdoor app? If not, you may be missing be missing out on a great tool for your business.
+<center>Have you heard of the Nextdoor app? If not, you may be missing be missing out on a great tool for your business.</center>
 
 The internet is giving consumers more ways to communicate with one another than ever. **They can trade information, share resources, and give advice on people to hire**. The [Nextdoor ](https://nextdoor.com/){: target="_blank"}app is a free and private social network for neighborhoods, and it allows area residents to talk and collaborate among each other online.&nbsp;
 
