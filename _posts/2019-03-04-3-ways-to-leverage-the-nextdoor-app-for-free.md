@@ -18,9 +18,11 @@ youtube_code: HdrXBASoHKU
 
 {% include youtube.html %}
 
-<center>Have you heard of the Nextdoor app? If not, you may be missing be missing out on a great tool for your business.</center>
+<center><em>Have you heard of the Nextdoor app? If not, you may be missing be missing out on a great tool for your business.</em></center>
 
-The internet is giving consumers more ways to communicate with one another than ever. **They can trade information, share resources, and give advice on people to hire**. The [Nextdoor ](https://nextdoor.com/){: target="_blank"}app is a free and private social network for neighborhoods, and it allows area residents to talk and collaborate among each other online.&nbsp;
+&nbsp;
+
+The internet is giving consumers more ways to communicate with one another than ever. **They can trade information, share resources, and give advice on people to hire**. The [Nextdoor ](https://nextdoor.com/){: target="_blank"}app is a free and private social network for neighborhoods, and it allows area residents to talk and collaborate among each other online.
 
 These groups are called trusted communities—**the people who make it up all share something in common**. In this case, they live in the same area. Regardless of what it is they hold in common, they’re more willing to trust other members of the same community. If one person trusts you as an agent, they’ll spread the word to others.
 
