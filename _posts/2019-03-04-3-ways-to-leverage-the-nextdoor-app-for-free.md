@@ -5,7 +5,8 @@ date: 2019-03-04 00:00:00
 tags:
   - Lead Generation
 excerpt: Have you heard of the Nextdoor app?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Greg+Harrelson/Videos/The+Harrelson+Group+-+3+Ways+to+Leverage+the+Nextdoor+App+for+Free.mp4
 pullquote: >-
   If you use these tactics, you’ll be able to boost your business through
   Nextdoor.
@@ -20,7 +21,7 @@ youtube_code: HdrXBASoHKU
 
 <center><em>Have you heard of the Nextdoor app? If not, you may be missing out on a great tool for your business.</em></center>
 
-&nbsp;
+ 
 
 The internet is giving consumers more ways to communicate with one another than ever. **They can trade information, share resources, and give advice on people to hire**. The [Nextdoor ](https://nextdoor.com/){: target="_blank"}app is a free and private social network for neighborhoods, and it allows area residents to talk and collaborate among each other online.
 
