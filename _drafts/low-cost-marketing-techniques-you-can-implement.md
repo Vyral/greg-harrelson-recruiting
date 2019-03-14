@@ -18,7 +18,7 @@ youtube_code: O2nT2GLZ-F8
 
 {% include youtube.html %}
 
-Marketing is one of the most important parts of selling a home. Here are some inexpensive, effective techniques that we use for our listings.
+<center>Marketing is one of the most important parts of selling a home. Here are some inexpensive, effective techniques that we use for our listings.</center>
 
 I’m sure you’ve been in a situation where you’ve talked to a seller client after a few weeks and they want to know what you’ve done to market their home.
 
