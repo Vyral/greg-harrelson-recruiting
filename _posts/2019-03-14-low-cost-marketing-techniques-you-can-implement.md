@@ -4,9 +4,7 @@ title: Low-Cost Marketing Techniques You Can Implement
 date: 2019-03-14 00:00:00
 tags:
   - Lead Generation
-excerpt: >-
-  Marketing is one of the most important parts of selling a home. Here are some
-  inexpensive, effective techniques that we use for our listings.
+excerpt: 'Here are some inexpensive, effective techniques that we use for our listings.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -20,7 +18,7 @@ youtube_code: O2nT2GLZ-F8
 
 <center><em>Marketing is one of the most important parts of selling a home. Here are some inexpensive, effective techniques that we use for our listings.</em></center>
 
-&nbsp;
+ 
 
 I’m sure you’ve been in a situation where you’ve talked to a seller client after a few weeks and they want to know what you’ve done to market their home.
 
