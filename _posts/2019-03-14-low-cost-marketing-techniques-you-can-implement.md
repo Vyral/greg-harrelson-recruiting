@@ -5,7 +5,8 @@ date: 2019-03-14 00:00:00
 tags:
   - Lead Generation
 excerpt: 'Here are some inexpensive, effective techniques that we use for our listings.'
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Greg+Harrelson/Videos/The+Harrelson+Group+-+Low-Cost+Marketing+Techniques+You+Can+Implement.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
