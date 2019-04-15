@@ -20,7 +20,7 @@ youtube_code: Ej7c0tQ5LPo
 
 {% include youtube.html %}
 
-Your attitude, approach, and expectations play a key role in your business. Here’s what you should do to keep them positive.
+<center>Your attitude, approach, and expectations play a key role in your business. Here’s what you should do to keep them positive.</center>
 
 There are three things you can change in your mindset that will help you get more out of your real estate business.
 
