@@ -26,11 +26,11 @@ youtube_code: Ej7c0tQ5LPo
 
 There are three things you can change in your mindset that will help you get more out of your real estate business.
 
-There are many distractions and frustrations that come at us throughout each day. How we manage these trials is up to our attitude, approach, and expectations.&nbsp;
+There are many distractions and frustrations that come at us throughout each day. How we manage these trials is up to our attitude, approach, and expectations.
 
 **Take a look at your attitude**. Do you see the glass as half empty or half full? Are things problems or opportunities? Your attitude affects how you view situations, and if you see things as pains and problems, you’re much less likely to want to deal with them. If you take things as challenges that you can solve, you’ll do much better in your business.
 
-Let’s say you get a low ball offer—it can be discouraging and may put you in a negative mindset. If you think, “This is never going to work out,” how is that going to affect your approach? Think of it this way: You got an offer, which means you’re better off than when you had none. Then, it’s time to figure out how you can negotiate it into something better.
+Let’s say you get a lowball offer—it can be discouraging and may put you in a negative mindset. If you think, “This is never going to work out,” how is that going to affect your approach? Think of it this way: You got an offer, which means you’re better off than when you had none. Then, it’s time to figure out how you can negotiate it into something better.
 
 {% include pullquote.html %}
 
