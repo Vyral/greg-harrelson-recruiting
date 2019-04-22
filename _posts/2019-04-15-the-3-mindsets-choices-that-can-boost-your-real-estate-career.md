@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Your attitude, approach, and expectations play a key role in your business.
   Here’s what you should do to keep them positive.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Greg+Harrelson/Videos/The+Harrelson+Group+-+The+3+Mindsets+Choices+That+Can+Boost+Your+Real+Estate+Career.mp4
 pullquote: >-
   Ultimately, your attitude, approach, and expectations will influence your
   final results.
@@ -22,7 +23,7 @@ youtube_code: Ej7c0tQ5LPo
 
 <center><em>Your attitude, approach, and expectations play a key role in your business. Here&rsquo;s what you should do to keep them positive.</em></center>
 
-&nbsp;
+ 
 
 There are three things you can change in your mindset that will help you get more out of your real estate business.
 
