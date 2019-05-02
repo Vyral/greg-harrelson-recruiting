@@ -20,7 +20,9 @@ youtube_code: U3pom9Kypxg
 
 {% include youtube.html %}
 
-<center>If you set your business up correctly, you needn’t be worried about a market shift. Here are three tips to help you do just that.</center>
+<center><em>If you set your business up correctly, you needn&rsquo;t be worried about a market shift. Here are three tips to help you do just that.</em></center>
+
+&nbsp;
 
 As a professional agent, should you care if our market shifts?
 
