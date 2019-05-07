@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you set your business up correctly, you needn’t be worried about a market
   shift. Here are three tips to help you do just that.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Greg+Harrelson/Videos/You+Shouldnt+Care+if+the+Market+ShiftsHeres+Why.mp4
 pullquote: >-
   Fewer expenses + more ideas + more leads = more business no matter what the
   market does.
