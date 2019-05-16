@@ -20,7 +20,9 @@ youtube_code: dDBEpUSqrkk
 
 {% include youtube.html %}
 
-<center>Year to date, the Harrelson Group has gotten over 816 listings. How did we do it? Find out right here.</center>
+<center><em>Year to date, the Harrelson Group has gotten over 816 listings. How did we do it? Find out right here.</em></center>
+
+&nbsp;
 
 In just the first quarter of 2019, we had 816 listings, but by the time you read this, the Harrelson Group will probably have well over 900 listings under our belt. But how do we do that?
 
