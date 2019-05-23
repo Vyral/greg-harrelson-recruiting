@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Year to date, the Harrelson Group has gotten over 816 listings. How did we do
   it? Find out right here.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Greg+Harrelson/Videos/The+Harrelson+Group+-+How+Did+We+Get+816+Listings+in+Q1+2019_.mp4
 pullquote: >-
   Making goals, collaborating, holding each other accountable, and executing
   strategies are key if you want to grow your listing inventory.
