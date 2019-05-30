@@ -4,9 +4,7 @@ title: What Are the Biggest Challenges Facing Agents in Today’s Market?
 date: 2019-05-30 00:00:00
 tags:
   - Transaction Management
-excerpt: >-
-  I’ve been seeing agents struggle more and more with certain aspects of the
-  real estate business. These are the three problems I’ve noticed the most.
+excerpt: These are the three problems I’ve noticed the most.
 enclosure:
 pullquote: Anything can work if you give it 100%.
 enclosure_type: video/mp4
