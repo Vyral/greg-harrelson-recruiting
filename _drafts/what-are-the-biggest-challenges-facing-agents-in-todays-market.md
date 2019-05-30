@@ -18,7 +18,7 @@ youtube_code: afljBD7L_CI
 
 {% include youtube.html %}
 
-I’ve been seeing agents struggle more and more with certain aspects of the real estate business. These are the three problems I’ve noticed the most.
+<center>I’ve been seeing agents struggle more and more with certain aspects of the real estate business. These are the three problems I’ve noticed the most.</center>
 
 I’m always keeping an eye on the market, so today I want to talk about three of the challenges I see real estate agents facing right now when trying to build their business or break through to the next level:
 
