@@ -24,7 +24,7 @@ client:
   name: Greg Harrelson
   title:
   license_number:
-  about_markdown: >
+  about_markdown: >-
     Greg Harrelson has helped more people buy or sell in the Myrtle Beach market
     than any other agent in the past 15 years. To accomplish this, Greg
     Harrelson has dedicated himself to hard work and a relentless pursuit to
@@ -35,7 +35,7 @@ client:
     agents reach top producer status selling 100, 200 and more homes per year.
 
 
-    One of the Greg’s greatest accomplishments is being #1 in the country for
+    One of the Greg’s greatest accomplishments is being \#1 in the country for
     Highest Production Per Agent in the country. In order to achieve this, Greg
     had to commit his time and effort to developing real estate agents within
     his organization. He is known to be the go-to coach for high production
@@ -49,9 +49,9 @@ client:
   brand: The Harrelson Group
   brokerage: Century 21
   address: '4999 Carolina Forest Blvd, Ste. 18<br>Myrtle Beach, SC 29579'
-  phone: 843-903-3550
+  phone: (843) 903-3550
   phone_type: Office
-  phone2: 843-457-7816
+  phone2: (843) 457-7816
   phone2_type: Cell
   email: gregharrelson@gmail.com
   url: 'http://www.c21TheHarrelsonGroup.com'
