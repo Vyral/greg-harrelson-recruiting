@@ -5,7 +5,8 @@ date: 2019-05-30 00:00:00
 tags:
   - Transaction Management
 excerpt: These are the three problems I’ve noticed the most.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/The+Harrelson+Group+-+What+Are+the+Biggest+Challenges+Facing+Agents+in+Todays+Market_.mp4
 pullquote: Anything can work if you give it 100%.
 enclosure_type: video/mp4
 enclosure_time:
