@@ -20,7 +20,7 @@ youtube_code: OsITGEOw5Tc
 
 {% include youtube.html %}
 
-I’ve got a fun, quick challenge for you to complete this Friday. Here’s what you need to do.
+<center>I’ve got a fun, quick challenge for you to complete this Friday. Here’s what you need to do.</center>
 
 I recently had an idea that I decided to turn into a challenge. Usually when I challenge you, it’s to take an action that I know is going to bring a big benefit back to you and your business. It’s also usually something that is simple and free. This challenge is no exception.
 
