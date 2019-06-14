@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Drive Eyes to Your Listings in Three Simple Steps
+title: Drive Eyes to Your Listings in 3 Simple Steps
 date: 2019-06-13 00:00:00
 tags:
   - Listing Presentation
@@ -32,7 +32,7 @@ I recently had an idea that I decided to turn into a challenge. Usually when I c
 
 **2\. Include “Featured listing by (your name) at (company name)” with a link under that line to the listing**. The branding here is invaluable and will direct traffic to the listing.
 
-**3\. Keep up with the post throughout the day to see if it has been liked, commented, or shared**. If somebody shares the post with someone specific, you can bet they are looking for a home that fits the criteria. The person who shared it with them tips us off to the lead, who you can then reach out to. We have used this strategy and gotten leads, set appointments, and written contracts.
+**3\. Keep up with the post throughout the day to see if it has been liked, commented on, or shared**. If somebody shares the post with someone specific, you can bet they are looking for a home that fits the criteria. The person who shared it with them tips us off to the lead, who you can then reach out to. We have used this strategy and gotten leads, set appointments, and written contracts.
 
 {% include pullquote.html %}
 
