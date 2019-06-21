@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   I’ve got a fun, quick challenge for you to complete this Friday. Here’s what
   you need to do.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/The+Harrelson+Group+-+Drive+Eyes+to+Your+Listings+in+3+Simple+Steps.mp4
 pullquote: >-
   If someone shares the post on Facebook, keep a close eye on the person who
   they share it with.
