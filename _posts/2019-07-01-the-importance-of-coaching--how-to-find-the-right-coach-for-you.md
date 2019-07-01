@@ -18,7 +18,9 @@ youtube_code: HL9aHR3XHCo
 
 {% include youtube.html %}
 
-<center>I believe that every real estate agent should have a coach—here’s why.</center>
+<center><em>I believe that every real estate agent should have a coach&mdash;here&rsquo;s why.</em></center>
+
+&nbsp;
 
 If you’re looking to build and sustain a profitable business, then you need to hire a coach. I believe all real estate agents (and all professionals in any industry) should hire a coach.
 
