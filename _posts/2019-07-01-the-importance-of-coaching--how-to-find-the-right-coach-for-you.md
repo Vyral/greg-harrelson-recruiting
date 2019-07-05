@@ -5,7 +5,8 @@ date: 2019-07-01 00:00:00
 tags:
   - Transaction Management
 excerpt: I believe that every real estate agent should have a coach—here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/The+Importance+of+Coaching+%26+How+to+Find+the+Right+Coach+for+You.mp4
 pullquote: >-
   No matter how well you’re doing, you can still do more with less effort, and
   this is where a coach can help you.
