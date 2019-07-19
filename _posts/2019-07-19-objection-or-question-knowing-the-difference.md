@@ -20,7 +20,9 @@ youtube_code: prXT7UK8xCs
 
 {% include youtube.html %}
 
-<center>Sometimes clients ask their agents questions, but the agents hear them as objections. What’s the difference?</center>
+<center><em>Sometimes clients ask their agents questions, but the agents hear them as objections. What&rsquo;s the difference?</em></center>
+
+&nbsp;
 
 If a client or a prospect asks a real estate agent a question, the agent needs to be very careful about interpreting it as an objection. Sometimes it’s a knee-jerk reaction to treat someone’s questions that way, but **when you respond to a question as though it were an objection, all you’ve done is create the objection**.
 
