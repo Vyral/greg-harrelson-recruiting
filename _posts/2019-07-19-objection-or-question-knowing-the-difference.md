@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Sometimes clients ask their agents questions, but the agents hear them as
   objections. What’s the difference?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/Objection+or+Question_+Knowing+the+Difference.mp4
 pullquote: >-
   I believe that half the time when people ask us these questions, they’re not
   doing so to raise an objection.
