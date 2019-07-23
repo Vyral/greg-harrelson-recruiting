@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Objection, or Question? Knowing the Difference'
+title: Objection or Question? Knowing the Difference
 date: 2019-07-19 00:00:00
 tags:
   - Transaction Management
@@ -28,7 +28,7 @@ If a client or a prospect asks a real estate agent a question, the agent needs t
 
 Here’s an example to help illustrate what I mean:
 
-Suppose that a prospect were to ask you, “Will you cut your commission fee?” That’s a question, but many agents would hear that as an objection and start listing all the reasons why they can’t or shouldn’t cut the commission.
+Suppose that a prospect was to ask you, “Will you cut your commission fee?” That’s a question, but many agents would hear that as an objection and start listing all the reasons why they can’t or shouldn’t cut the commission.
 
 In reality, it really was just a question. Instead of framing it as an objection, try giving some response to the effect of, “You know, I’m sorry, but I can’t do that. Do you have any other questions?” That way, you can give them an honest answer and move on to their other queries. **If the question comes up again, then you can start treating it like an objection**.
 
