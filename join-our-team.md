@@ -82,7 +82,8 @@ permalink: /join-our-team/
 
 <p>Greg Harrelson</p>
 
-
+<div class="center"><a href="/uploads/recruiting.pdf" class="simple-cta-link" target="_blank">Download the Brochure</a></div>
+<div class="whitespace"></div>
 
 <h2 class="recruiting">Request a Free Business Planning Call</h2>
 
