@@ -18,7 +18,7 @@ youtube_code: L1J0CPBDA-Q
 
 {% include youtube.html %}
 
-In the first of my four-part series, I’ll discuss how to build your business based on buys and sellers alike.
+<center>In the first of my four-part series, I’ll discuss how to build your business based on buys and sellers alike.</center>
 
 Welcome to the first installment of my four-part series about how to build a listing-based business. Throughout each video, I’ll also discuss how to build a buyer-based business and achieving the perfect balance between buyers and sellers.
 
