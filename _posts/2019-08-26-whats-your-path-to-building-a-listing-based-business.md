@@ -6,7 +6,7 @@ tags:
   - Transaction Management
 excerpt: >-
   In the first of my four-part series, I’ll discuss how to build your business
-  based on buys and sellers alike.
+  based on buyers and sellers alike.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -18,7 +18,7 @@ youtube_code: L1J0CPBDA-Q
 
 {% include youtube.html %}
 
-<center><em>In the first of my four-part series, I&rsquo;ll discuss how to build your business based on buys and sellers alike.</em></center>
+<center><em>In the first of my four-part series, I&rsquo;ll discuss how to build your business based on buyers and sellers alike.</em></center>
 
 &nbsp;
 
