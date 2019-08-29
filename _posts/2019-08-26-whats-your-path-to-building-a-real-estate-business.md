@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s Your Path to Building a Listing-Based Business?
+title: What's Your Path to Building a Real Estate Business?
 date: 2019-08-26 00:00:00
 tags:
   - Transaction Management
@@ -22,7 +22,7 @@ youtube_code: L1J0CPBDA-Q
 
 &nbsp;
 
-Welcome to the first installment of my four-part series about how to build a listing-based business. Throughout each video, I’ll also discuss how to build a buyer-based business and achieving the perfect balance between buyers and sellers.
+Welcome to the first installment of my four-part series about how to find a focus for your real estate business and then build it up accordingly. In these videos, I'll discussed how to build a business based on buyers, sellers, or both.
 
 I’ll start by using one of my favorite analogies: **Choosing which way to build your business is similar to choosing a flavor at the ice cream shop—there are no “wrong” choices**. Whether you’re building your business based on listings, buyers, or a balance between the two, I intend to show you all available options so you can commit to one path.
 
