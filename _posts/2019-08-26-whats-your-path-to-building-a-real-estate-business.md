@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   In the first of my four-part series, I’ll discuss how to build your business
   based on buyers and sellers alike.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/What's+Your+Path+to+Building+a+Real+Estate+Business_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
