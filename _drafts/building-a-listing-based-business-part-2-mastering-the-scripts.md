@@ -18,7 +18,7 @@ youtube_code: oL0CycLhJjc
 
 {% include youtube.html %}
 
-In the second part of my four-part series on building a listing-based business, I’ll teach you how to master the scripts.
+<center>In the second part of my four-part series on building a listing-based business, I’ll teach you how to master the scripts.</center>
 
 Welcome to the second installment of my four-part series explaining how to build a listing-based business. As you recall, <u><a target="_blank" href="https://agentgrowthstrategies.com/whats-your-path-to-building-a-real-estate-business.html">last time</a></u> we discussed who you call, when you call, and how many people you call.
 
