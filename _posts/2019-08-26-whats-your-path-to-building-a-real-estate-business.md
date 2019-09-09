@@ -27,4 +27,4 @@ Welcome to the first installment of my four-part series about how to find a focu
 
 I’ll start by using one of my favorite analogies: **Choosing which way to build your business is similar to choosing a flavor at the ice cream shop—there are no “wrong” choices**. Whether you’re building your business based on listings, buyers, or a balance between the two, I intend to show you all available options so you can commit to one path.
 
-After this video, stay tuned for part two of my series. In the meantime, if you have any questions about this topic or there’s anything else I can assist you with, don’t hesitate to reach out to me. I’d love to help you.
+After this video, stay tuned for <u><a target="_blank" href="https://agentgrowthstrategies.com/building-a-listing-based-business-part-2-mastering-the-scripts.html">part two</a></u> of my series. In the meantime, if you have any questions about this topic or there’s anything else I can assist you with, don’t hesitate to reach out to me. I’d love to help you.
