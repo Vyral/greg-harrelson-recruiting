@@ -22,7 +22,7 @@ youtube_code: oL0CycLhJjc
 
 &nbsp;
 
-Welcome to the second installment of my four-part series explaining how to build a listing-based business. As you recall, <u><a target="_blank" href="https://agentgrowthstrategies.com/whats-your-path-to-building-a-real-estate-business.html">last time</a></u> we discussed who you call, when you call, and how many people you call.
+Welcome to the second installment of my four-part series explaining how to build a listing-based business. As you recall, <u><a target="_blank" href="https://agentgrowthstrategies.com/whats-your-path-to-building-a-real-estate-business.html">last time</a></u> we discussed who to call, when to call, and how many people to call.
 
 In today’s video, I’ll talk about the scripts you’ll use for these calls. **Everything we do in this business comes at the end of a conversation**, and scripts are key to mastering the conversation. Therefore, you must master the scripts.&nbsp;
 
