@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   In the second part of my four-part series on building a listing-based
   business, I’ll teach you how to master the scripts.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/Building+a+Listing-Based+Business%2C+Part+2-+Mastering+the+Scripts.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
