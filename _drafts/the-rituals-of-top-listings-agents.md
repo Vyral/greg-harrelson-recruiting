@@ -18,7 +18,7 @@ youtube_code: VU5LG2IKZos
 
 {% include youtube.html %}
 
-For the third part of my four-part series about building a listing-based business, I’ll teach you how to master your rituals.
+<center>For the third part of my four-part series about building a listing-based business, I’ll teach you how to master your rituals.</center>
 
 As we delve deeper into my series about building a listing-based business, today I’ll focus on the rituals of top agents and how you can master your own rituals. Unfortunately, many agents are consistent at being inconsistent, and a lack of consistency results in a lack of freedom. How? **Inconsistency in your activities leads to inconsistency in your financials**.
 
