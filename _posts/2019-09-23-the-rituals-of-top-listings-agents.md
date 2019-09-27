@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   For the third part of my four-part series about building a listing-based
   business, I’ll teach you how to master your rituals.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/The+Rituals+of+Top+Listings+Agents.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
