@@ -18,7 +18,9 @@ youtube_code: 7IbbfmBotT8
 
 {% include youtube.html %}
 
-<center>What is the point of a price reduction and how can price reductions be done effectively?</center>
+<center><em>What is the point of a price reduction and how can price reductions be done effectively?</em></center>
+
+&nbsp;
 
 Asking sellers to reduce the price of their listing can be a nerve-wracking experience. This is an incredibly common feeling, so today, allow me to share some tips and tricks on what I like to call the “art of the price reduction.”
 
