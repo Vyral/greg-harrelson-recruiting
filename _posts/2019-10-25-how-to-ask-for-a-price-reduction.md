@@ -28,7 +28,7 @@ Asking sellers to reduce the price of their listing can be a nerve-wracking expe
 
 0:06 - Introducing today’s topic
 
-1:25 - The first sign a home needs a price reduction
+1:25 - The first sign that a home needs a price reduction
 
 1:57 - A good rule of thumb for how far you should reduce a listing’s price
 
