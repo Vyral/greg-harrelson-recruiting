@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What is the point of a price reduction and how can price reductions be done
   effectively?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/How+to+Ask+for+a+Price+Reduction.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
