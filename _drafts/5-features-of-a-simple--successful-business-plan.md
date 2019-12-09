@@ -18,7 +18,9 @@ youtube_code: J9vlWDs3fWM
 
 {% include youtube.html %}
 
-Now that we’re approaching the year’s end, many people have begun talking about their business plan for 2020. I believe that the best business plans are kept simple; too many people make elaborate, pages-long business plans that can become confusing. Don’t get me wrong—it’s good to be detailed in your plans, but don’t overcomplicate it to the point of uselessness. Today I’ll discuss five key features of a simple and successful business plan.
+<center><em>In order to be even more successful next year, your business plan must contain five key features.</em></center>
+
+<br>Now that we’re approaching the year’s end, many people have begun talking about their business plan for 2020. I believe that the best business plans are kept simple; too many people make elaborate, pages-long business plans that can become confusing. Don’t get me wrong—it’s good to be detailed in your plans, but don’t overcomplicate it to the point of uselessness. Today I’ll discuss five key features of a simple and successful business plan.
 
 **Feel free to follow along in the video above or use the timestamps provided below to navigate the discussion at your leisure:**
 
