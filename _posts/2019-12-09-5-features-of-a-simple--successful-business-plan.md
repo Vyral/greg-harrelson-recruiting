@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   In order to be even more successful next year, your business plan must contain
   five key features.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/5+Features+of+a+Simple+%26+Successful+Business+Plan.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
