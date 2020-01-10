@@ -20,7 +20,9 @@ youtube_code: 4hK3x_zeorI
 
 {% include youtube.html %}
 
-Happy New Year\! If you’re like me, you’re hoping that 2020 is going to be your breakthrough year. I want to share a few key things that you can do to ensure that you do have a breakthrough in 2020. A lot of them are things that we already know, we just have to focus on implementing them as we tune out all the distractions.
+<center><em>If you incorporate these five steps into your 2020, it will be a year of growth for you.</em></center>
+
+<br>Happy New Year! If you’re like me, you’re hoping that 2020 is going to be your breakthrough year. I want to share a few key things that you can do to ensure that you do have a breakthrough in 2020. A lot of them are things that we already know, we just have to focus on implementing them as we tune out all the distractions.
 
 **1\. Show up**. If you want consistent income in the real estate business, you have to show up with your best, day in and day out.
 
