@@ -28,12 +28,12 @@ youtube_code: 4hK3x_zeorI
 
 **2\. Focus on lead generation**. How you do this is up to you. Do you want to buy Zillow or Realtor.com leads? Do you want to prospect centers of influence or do open houses? What about direct mail? What matters most is that you’re generating leads every day, every week, every month. Generate consistently.
 
-**3\. Focus on following up**. This may seem obvious, but I’m talking about here is following up with every single human being that even so much as hinted that they were interested in buying or selling in 2019. Maybe they put their plans on hold, maybe this is the year for them to act.
+**3\. Focus on following up**. This may seem obvious, but I’m talking about following up with every single human being that even so much as hinted that they were interested in buying or selling in 2019. Maybe they put their plans on hold, maybe this is the year for them to act.
 
 {% include pullquote.html %}
 
 **4\. Surround yourself with motivated real estate agents who want to grow**. Do not underestimate the value of being around top agents; a positive environment filled with like-minded individuals who also want to break through this year. You will naturally elevate yourself when you’re around high-performing people.
 
-**5\. Lead from experience**. Be on guard: Nowadays, everybody seems to be a real estate coach with published books. I could publish a book in three weeks, all I’d have to do is recycle the content from all these popular real estate books and put my face on it—voila\! I’ve seen a lot of that stuff going on lately. Strong leadership is so important, and leading from experience is completely different than leading from a book.
+**5\. Lead from experience**. Be on guard: Nowadays, everybody seems to be a real estate coach with published books. I could publish a book in three weeks; all I’d have to do is recycle the content from all these popular real estate books and put my face on it—voila\! I’ve seen a lot of that stuff going on lately. Strong leadership is so important, and leading from experience is completely different than leading from a book.
 
 If you want some help in the Columbia, Charleston, or Myrtle Beach markets, please give me a call or send me an email. I’d love to hear from you and help any way I can.
