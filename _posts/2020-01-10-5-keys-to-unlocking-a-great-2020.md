@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you incorporate these five steps into your 2020, it will be a year of
   growth for you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/5+Keys+to+Unlocking+a+Great+2020.mp4
 pullquote: >-
   Strong leadership is so important, and leading from experience is completely
   different than leading from a book.
