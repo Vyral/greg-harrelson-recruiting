@@ -28,9 +28,9 @@ youtube_code: JpGvjp-WcmQ
 
 **2\. Execute**. Hopefully you wrote a business plan for 2020 (and have been doing so every year), but the reality is that most business plans are written and subsequently tossed in a drawer never to be looked at again. The kinds of people who do this are the ones who never execute. The key isn’t the plan; it’s the execution. If you execute on just a few important areas of your business plan, you’ll experience a breakthrough. Most people try to execute every point in their plan, but I say to shy away from that. Try instead to execute one strategy, system, or process this month.
 
-**3\. Try new things**. What you’ve been doing has created what you’ve been getting. If you believe that what you did attracted what you got, you also believe you can dictate what you get. If you want something different, try something different. Add a few lead pillars to your business. Become multi-dimensional. Don’t rely on just one lead source to get you where you want to be. One lead source will only get you where you’ve already been. To get where you want, add new lead sources. Identify which lead sources those should be and what returns you can expect. Figure out how to generate leads at minimal or no cost at all.
-
 {% include pullquote.html %}
+
+**3\. Try new things**. What you’ve been doing has created what you’ve been getting. If you believe that what you did attracted what you got, you also believe you can dictate what you get. If you want something different, try something different. Add a few lead pillars to your business. Become multi-dimensional. Don’t rely on just one lead source to get you where you want to be. One lead source will only get you where you’ve already been. To get where you want, add new lead sources. Identify which lead sources those should be and what returns you can expect. Figure out how to generate leads at minimal or no cost at all.
 
 These are the same tips I give to the agents on my team. If you stay focused, execute, and add an additional lead source, you’ll be well on your way to a breakthrough.
 
