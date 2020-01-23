@@ -20,7 +20,9 @@ youtube_code: JpGvjp-WcmQ
 
 {% include youtube.html %}
 
-It’s the beginning of another new year, and you have the opportunity to break through in your business. **To generate the momentum you need to take your real estate career to the next level, here are three tips to adhere to:**
+<center><em>If you want to take your business to the next level in 2020, follow these three tips.</em></center>
+
+<br>It’s the beginning of another new year, and you have the opportunity to break through in your business. **To generate the momentum you need to take your real estate career to the next level, here are three tips to adhere to:**
 
 **1\. Stay focused**. Staying focused on the things you know will get you the things you want. We already know what to do to get what we want—we just need to stay focused. The biggest challenge when it comes to focusing is not letting “shiny objects” distract you. It seems like every real estate agent who’s done a bit of business is a coach nowadays. Who do you listen to? Who do you follow? The key is to stay focused on what you need to know and do. This will help you get what you want.
 
