@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you want to take your business to the next level in 2020, follow these
   three tips.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/3+Tips+to+Achieve+a+2020+Breakthrough.mp4
 pullquote: >-
   If you stay focused, execute, and add an additional lead source, you’ll be
   well on your way to a breakthrough.
