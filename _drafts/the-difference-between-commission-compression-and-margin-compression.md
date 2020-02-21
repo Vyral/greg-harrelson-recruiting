@@ -20,7 +20,9 @@ youtube_code: poAr0mASsb8
 
 {% include youtube.html %}
 
-What’s the difference between commission compression and margin compression?
+<center><em>There’s an important difference between commission compression and margin compression.</em></center>
+
+<br>What’s the difference between commission compression and margin compression?
 
 Commission compression is when consumers demand a lower commission rate that agents can charge. Margin compression is when the profitability of a transaction goes down.
 
@@ -28,7 +30,7 @@ I’ve seen a lot of studies disproving the notion that the commissions agents c
 
 {% include pullquote.html %}
 
-What’s impacting our margins like this? Well, a lot of transactions are being done with referral fees and paid leads. Whether you use Zillow, Realtor.com, social media advertising, etc., there’s a cost to generating those leads. That adds a heavy expense to your transaction, so by the time you get your normal commission, the profitability is lower. &nbsp;The same goes if you’re getting referral fees from third-party referral sources.
+What’s impacting our margins like this? Well, a lot of transactions are being done with referral fees and paid leads. Whether you use Zillow, Realtor.com, social media advertising, etc., there’s a cost to generating those leads. That adds a heavy expense to your transaction, so by the time you get your normal commission, the profitability is lower. The same goes if you’re getting referral fees from third-party referral sources.
 
 As agents, **the best thing we can do is continue to provide value so we can charge whatever commission rate we feel we’re worth**. More importantly, we need to look at our bottom line. How can you generate more business at a lower cost? How can you decrease the cost of lead generation? One way is by learning how to generate leads at no cost. That’s what I coach my agents to do every single day.
 
