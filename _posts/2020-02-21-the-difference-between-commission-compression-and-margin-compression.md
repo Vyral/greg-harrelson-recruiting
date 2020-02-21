@@ -20,7 +20,7 @@ youtube_code: poAr0mASsb8
 
 {% include youtube.html %}
 
-<center><em>There’s an important difference between commission compression and margin compression.</em></center>
+<center><em>There&rsquo;s an important difference between commission compression and margin compression.</em></center>
 
 <br>What’s the difference between commission compression and margin compression?
 
