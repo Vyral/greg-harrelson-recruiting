@@ -26,7 +26,7 @@ youtube_code: poAr0mASsb8
 
 Commission compression is when consumers demand a lower commission rate that agents can charge. Margin compression is when the profitability of a transaction goes down.
 
-I’ve seen a lot of studies disproving the notion that the commissions agents can charge are declining in our industry. There are certain commission-cutting agents and companies out there, but remember that there are iBuyers out there charging fees that are higher than a commission in many cases. **What *is* decreasing is the profitability per transaction**. When this decreases, it doesn’t mean commissions are lower; it means the cost of the transaction is increasing.
+I’ve seen a lot of studies disproving the notion that the commissions agents can charge are declining in our industry. There are certain commission-cutting agents and companies out there, but remember that there are iBuyers out there charging fees that are higher than a commission in many cases. **What *is* decreasing *is* profitability per transaction**. When this decreases, it doesn’t mean commissions are lower; it means the cost of the transaction is increasing.
 
 {% include pullquote.html %}
 
