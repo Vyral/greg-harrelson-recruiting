@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2-20---greg-harrelson---yt.jpg
-youtube_code: poAr0mASsb8
+youtube_code: Nd0a0nPmpY8
 ---
 
 {% include youtube.html %}
