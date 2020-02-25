@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There’s an important difference between commission compression and margin
   compression.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/The+Difference+Between+Commission+Compression+and+Margin+Compression.mp4
 pullquote: >-
   How can you decrease the cost of lead generation? One way is by learning how
   to generate leads at no cost.
