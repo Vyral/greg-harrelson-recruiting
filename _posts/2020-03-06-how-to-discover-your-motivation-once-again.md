@@ -18,7 +18,7 @@ youtube_code: D7QtmiOH6dI
 
 {% include youtube.html %}
 
-<center><em>If you’re struggling with motivation in your real estate career, I’ve got some tips that will hopefully get you back on the right path.</em></center>
+<center><em>If you&rsquo;re struggling with motivation in your real estate career, I&rsquo;ve got some tips that will hopefully get you back on the right path.</em></center>
 
 <br>I’m hearing a lot from real estate agents out there who are struggling with staying motivated. Maybe something has thrown them off track in the early stages of the year and it’s tough to get their mind back in the game. I wanted to share some helpful information today if you’re in the same situation.
 
