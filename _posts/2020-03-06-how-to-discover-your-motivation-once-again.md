@@ -32,6 +32,6 @@ While you're in that mode of discovering your “why,” **I think these three s
 
 **2\. Text 10 past clients**. Say something like this: “Values of properties like you purchased in the past have gone up. Interested in selling yours?” You’re going to get a higher engagement rate on these 10 texts.
 
-**3\. Text three friends or family members**. Just say something simple like, “Hey, I was just thinking about you. I hope your day today is your best day of the week.” You can come up with better wording than that, but here’s the point: Reach out to people who value you and what you’ve done for them in their lives. You probably won’t get business out of it, and that’s not the goal here, but you will get engagement. Engagement makes you feel good and when you feel good, you’ll be much more motivated.
+**3\. Text three friends or family members**. Just say something simple like, “Hey, I was just thinking about you. I hope today is your best day of the week.” You can come up with better wording than that, but here’s the point: Reach out to people who value you and what you’ve done for them in their lives. You probably won’t get business out of it, and that’s not the goal here, but you will get engagement. Engagement makes you feel good and when you feel good, you’ll be much more motivated.
 
 If I can do anything for you and your business, please let me know. Reach out by phone or email today and I would love to have a conversation with you.
