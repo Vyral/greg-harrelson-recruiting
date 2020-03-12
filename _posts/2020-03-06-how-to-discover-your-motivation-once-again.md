@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’re struggling with motivation in your real estate career, I’ve got some
   tips that will hopefully get you back on the right path.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/How+to+Discover+Your+Motivation+Once+Again.mp4
 pullquote: Engagement makes you feel good.
 enclosure_type: video/mp4
 enclosure_time:
