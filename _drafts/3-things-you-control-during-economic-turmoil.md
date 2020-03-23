@@ -18,7 +18,9 @@ youtube_code: Cm0REoPStGg
 
 {% include youtube.html %}
 
-Truthfully, we don’t know exactly what’s going to happen with the market in the wake of the coronavirus pandemic. We do know that there are many agents out there, and if you’re one of them, today I’ll share a little of my advice with you.
+<center><em>Though many things are outside of our control during these trying times, there are still three things agents can maintain control over.</em></center>
+
+<br>Truthfully, we don’t know exactly what’s going to happen with the market in the wake of the coronavirus pandemic. We do know that there are many agents out there, and if you’re one of them, today I’ll share a little of my advice with you.
 
 **Real estate agents still have control over three things during times of economic turmoil, and if you take control of them properly, it’ll make a world of difference in your business:**
 
