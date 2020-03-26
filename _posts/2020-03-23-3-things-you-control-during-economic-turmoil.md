@@ -24,9 +24,9 @@ youtube_code: Cm0REoPStGg
 
 **Real estate agents still have control over three things during times of economic turmoil, and if you take control of them properly, it’ll make a world of difference in your business:**
 
-**1\. Attitude**. Is your glass half-empty or half-full? Do you focus on the negatives or the positives? Are you bringing solutions to the conversation or are you shooting them down? If you can find the right, positive outlook and bring that to every business conversation you have, you’ll find that there are always opportunities to take advantage of.
+**1\. Attitude**. Is your glass half-empty or half-full? Do you focus on the negatives or the positives? Are you bringing solutions to the conversation or are you shooting them down? If you can find the right, positive outlook and bring that to every business conversation you have, you’ll find that there are always advantageous opportunities.
 
-**2\. Approach**. What’s your plan for communicating with past clients, your sphere of influence, current buyer leads, active seller leads, and so on? Do you tend to plan things out, or do you just wing it? If you have the right attitude and the right approach, you’ll be well ahead of your competition.
+**2\. Approach**. What’s your plan for communicating with past clients, your sphere of influence, current buyer leads, active seller leads, etc.? Do you tend to plan things out, or do you just wing it? If you have the right attitude and the right approach, you’ll be well ahead of your competition.
 
 **3\. Expectations**. Do you visualize positive outcomes for your listing presentations, price reduction consultations, or calls with your sellers when buyers want to renegotiate? You need to control your expectations and focus on the positive.
 
