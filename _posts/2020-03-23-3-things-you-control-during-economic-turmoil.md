@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Though many things are outside of our control during these trying times, there
   are still three things agents can maintain control over.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/3+Things+You+Control+During+Economic+Turmoil.mp4
 pullquote: 'Keep your focus, keep your cool, and be the calming voice for the consumer.'
 enclosure_type: video/mp4
 enclosure_time:
