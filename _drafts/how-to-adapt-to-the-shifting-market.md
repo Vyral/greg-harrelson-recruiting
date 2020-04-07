@@ -20,7 +20,9 @@ youtube_code: W5MFVr9EE3o
 
 {% include youtube.html %}
 
-During times like these, it’s so critical for everyone to communicate and talk through all the current events with which we’re dealing. It’s amazing how when we just sit and talk for a while, we can suddenly come up with solutions to the challenges happening around us. There are concerns about the coronavirus, which translated into concerns about the stock market, which also creates concerns about the real estate industry. That’s why today we want to have a conversation about the recent shift that has occurred, so you have an idea of exactly what has changed and how that will affect real estate.
+<center><em>Times have changed dramatically amid the coronavirus outbreak. That’s why we need to come to understand this shift and how we can adapt to it.</em></center>
+
+<br>During times like these, it’s so critical for everyone to communicate and talk through all the current events with which we’re dealing. It’s amazing how when we just sit and talk for a while, we can suddenly come up with solutions to the challenges happening around us. There are concerns about the coronavirus, which translated into concerns about the stock market, which also creates concerns about the real estate industry. That’s why today we want to have a conversation about the recent shift that has occurred, so you have an idea of exactly what has changed and how that will affect real estate.
 
 **Follow along in the video above or feel free to use the timestamps below to navigate our conversation at your leisure:**
 
