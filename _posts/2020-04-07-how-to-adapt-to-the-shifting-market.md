@@ -7,8 +7,8 @@ tags:
   - Lead Conversion
   - Lead Generation
 excerpt: >-
-  Times have changed dramatically amid the coronavirus outbreak. That’s why we
-  need to come to understand this shift and how we can adapt to it.
+  Our world has changed dramatically amid the coronavirus outbreak. That’s why
+  we need to understand this shift and how we can adapt to it.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -20,7 +20,7 @@ youtube_code: W5MFVr9EE3o
 
 {% include youtube.html %}
 
-<center><em>Times have changed dramatically amid the coronavirus outbreak. That&rsquo;s why we need to come to understand this shift and how we can adapt to it.</em></center>
+<center><em>Our world has changed dramatically amid the coronavirus outbreak. That&rsquo;s why we need to understand this shift and how we can adapt to it.</em></center>
 
 <br>During times like these, it’s so critical for everyone to communicate and talk through all the current events with which we’re dealing. It’s amazing how when we just sit and talk for a while, we can suddenly come up with solutions to the challenges happening around us. There are concerns about the coronavirus, which translated into concerns about the stock market, which also creates concerns about the real estate industry. That’s why today we want to have a conversation about the recent shift that has occurred, so you have an idea of exactly what has changed and how that will affect real estate.
 
