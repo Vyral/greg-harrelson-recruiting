@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   Our world has changed dramatically amid the coronavirus outbreak. That’s why
   we need to understand this shift and how we can adapt to it.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/How+to+Adapt+to+the+Shifting+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
