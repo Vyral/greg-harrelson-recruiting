@@ -3,14 +3,17 @@ layout: post
 title: How to Thrive Amidst Uncertainty
 date: 2020-05-04 00:00:00
 tags:
-excerpt:
+  - Transaction Management
+excerpt: >-
+  It’s easy to find excuses to abandon our routines, but here’s why we need to
+  focus on them now more than ever.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/05-04-harrelson-youtube.jpg
+youtube_code: PBBon9OGy4g
 ---
 
 {% include youtube.html %}
