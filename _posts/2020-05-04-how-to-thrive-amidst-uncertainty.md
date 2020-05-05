@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   It’s easy to find excuses to abandon our routines, but here’s why we need to
   focus on them now more than ever.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/2020/How+to+Thrive+Amidst+Uncertainty.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
