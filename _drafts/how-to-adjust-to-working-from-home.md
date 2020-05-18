@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/05-12-harrelson-youtube.jpg
 youtube_code: V8UQiiI9M2o
 ---
 
-{% include youtube.html %}Today I’m continuing our series to help all agents excel during these turbulent times.&nbsp;
+{% include youtube.html %}<center>Today I’m continuing our series to help all agents excel during these turbulent times.&nbsp;</center>
 
 In the age of this pandemic, the reality is that we may end up working more from home than we originally planned; this can present you with a number of distractions. Agents will need to have enough business maturity to be able to keep working and sustain themselves.
 
