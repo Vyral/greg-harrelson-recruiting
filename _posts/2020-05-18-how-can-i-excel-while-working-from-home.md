@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to Adjust to Working From Home
-date: 2020-05-18 20:22:04
+title: How Can I Excel While Working From Home?
+date: 2020-05-18 20:22:00
 tags:
 excerpt: >-
   Today I’m continuing our series to help all agents excel during these
