@@ -19,16 +19,12 @@ youtube_code: wbE8NSPg2z4
 
 {% include youtube.html %}
 
-<center><em>If you're working from home, your family can keep you accountable.</em></center>
+<center><em>It&rsquo;s easy to find excuses to abandon our routines, but here&rsquo;s why we need to focus on them now more than ever.</em></center>
 
-<br>While we know that things are beginning to "open up" more in our market, it's likely that you may still be working from home.
+<br>We’re well into this global pandemic, and though with each passing day we inch toward a firmer grasp of our new normal, so many questions still loom—especially when it comes to sustaining a business. Today we’re sharing more thoughts on how to not only weather this storm, but also how to set your business in such a way that you’ll thrive on the other side of it.
 
-In the age of this pandemic, the reality is that we may end up working more from home than we originally planned; this can present you with a number of distractions. Agents will need to have enough business maturity to be able to keep working and sustain themselves.
+**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:**
 
-That’s why if you’re an agent who has a family and is working from home, you should consider a family buy-in plan where your family becomes your accountability partner and support system.
+1:12 - Torch your ‘Business Plan A’ and create a brand-new one<br>2:48 - Be realistic with your finances; address elements that have been giving you little to no return<br>4:50 - Going on the offensive—not the defensive—with your business’ vision<br>6:33 - Preserving a healthy routine (or viewing this time as an opportunity to create one)<br>9:34 - Now is the time to level-up on your skills (consumers’ expectations will only increase)<br>12:33 - What outbound calls you need to be making and what tone you should have<br>15:50 - Be the voice of calm for your active clients and communicate consistently<br>17:30 - Be visible; set a goal for the number of market updates you will release<br>19:12 - Not losing sight of accountability
 
-**To learn more, watch the video above or else use the timestamps below to navigate the discussion at your leisure:**
-
-1:35 - How those who aren’t used to working from home can adjust<br>2:31 - Communicating with your kids about your situation<br>4:04 - Simple ways to get your kids involved<br>5:15 - Don’t spread fear, but be honest<br>6:50 - Share your routine to maintain accountability<br>8:06 - Communicating with your spouse<br>9:02 - Virtual listing presentations<br>10:48 - What happens without family buy-in?<br>12:40 - Leaders need to take the offensive in this market
-
-Hopefully, these tips help make a difference in the productivity of your real estate business. If you have any questions, don’t hesitate to reach out to us. We’d love to hear from you.
+If you have any questions about what was discussed in this message, or if you’re interested in buying or selling a home soon but aren’t sure how to proceed in these times, reach out to us. We’re always here to help, and we look forward to hearing from you.
