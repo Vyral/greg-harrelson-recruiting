@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Can I Excel While Working From Home?
+title: How to Thrive Amidst Uncertainty
 date: 2020-05-04 00:00:00
 tags:
   - Transaction Management
