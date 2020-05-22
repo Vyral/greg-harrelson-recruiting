@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I’m continuing our series to help all agents excel during these
   turbulent times.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/2020/How+Can+I+Excel+While+Working+From+Home_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
