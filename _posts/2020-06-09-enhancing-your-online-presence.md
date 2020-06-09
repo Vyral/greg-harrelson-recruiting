@@ -30,3 +30,5 @@ Today, let’s discuss why you need to use this time to increase your online pre
 1:51 - Engaging with people who have put their real estate plans on pause<br>3:10 - Taking advantage of a ‘captive audience’<br>5:03 - Monetizing the number of eyes on the internet<br>6:26 - Don’t miss any opportunities to engage<br>7:31 - Leveraging smartphones and texting your database<br>8:49 - Capturing the mindshare of leads<br>9:38 - Are your listings on Facebook?<br>10:32 - Monitor your content to make sure it doesn’t stoke fear<br>11:18 - A sample introduction
 
 If you have any questions about extending and enhancing your internet presence, don’t hesitate to reach out to us. We’d love to help you.
+
+&nbsp;
