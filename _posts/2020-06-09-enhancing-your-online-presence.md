@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you’re not taking this time to leverage your presence on the internet,
   you’re missing opportunities.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/2020/Enhancing+Your+Online+Presence.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
