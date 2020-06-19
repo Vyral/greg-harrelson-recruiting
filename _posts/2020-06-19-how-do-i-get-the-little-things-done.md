@@ -25,3 +25,5 @@ youtube_code: A7iZyKWsRPw
 1:00 - How to decide what to work on next<br>3:20 - The process of creative thinking<br>6:00 - How your second creative thinking session should go<br>9:10 - Why the people who compound the easy build the most wealth<br>10:25 - Our mission as real estate leaders
 
 If you have questions about today’s topic or anything concerning real estate, please reach out via phone or email. We would love to speak with you.
+
+&nbsp;
