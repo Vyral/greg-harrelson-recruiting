@@ -16,7 +16,9 @@ youtube_code: A7iZyKWsRPw
 
 {% include youtube.html %}
 
-We have a great topic today: How to get all the little things done. We real estate agents may have a bit of extra time on our hands for a while due to the health crisis, so now is the time to get some of those smaller things done. We get caught up in our everyday activities and sometimes forget to focus on details that do need to be done. We’re discussing creative thinking, how to start with the easier tasks, getting back to the foundations of what you do, and more.
+<center><em>Today we’re discussing how to get back to the foundations of what you do.</em></center>
+
+<br>We have a great topic today: How to get all the little things done. We real estate agents may have a bit of extra time on our hands for a while due to the health crisis, so now is the time to get some of those smaller things done. We get caught up in our everyday activities and sometimes forget to focus on details that do need to be done. We’re discussing creative thinking, how to start with the easier tasks, getting back to the foundations of what you do, and more.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message, or use these timestamps to browse specific topics at your leisure:**
 
