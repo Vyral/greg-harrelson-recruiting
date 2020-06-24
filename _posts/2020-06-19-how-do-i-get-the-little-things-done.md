@@ -5,7 +5,8 @@ date: 2020-06-19 00:00:00
 tags:
   - Transaction Management
 excerpt: Today we’re discussing how to get back to the foundations of what you do.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/2020/How+Do+I+Get+the+Little+Things+Done_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
