@@ -29,3 +29,5 @@ Most agents are stopping when somebody says their timeline is far out but you sh
 **When you know a prospect’s timeframe, you can place them in the proper lead bucket**. They may be in a two-week bucket, a two-month bucket, or even a two-year bucket. Take these buckets and use them to know when to reach out to people. Make those calls, collect the details, put them in the proper bucket, and follow up\! Keep your focus forward and you’ll be grateful for it later.
 
 If you have any questions for me, don’t hesitate to reach out via phone or email. I’d love to help you out.
+
+&nbsp;
