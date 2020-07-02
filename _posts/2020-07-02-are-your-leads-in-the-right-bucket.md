@@ -16,7 +16,7 @@ youtube_code: D2PN95nEzus
 
 {% include youtube.html %}
 
-<center><em>Now’s a great time to make contacts for future business.</em></center>
+<center><em>Now&rsquo;s a great time to make contacts for future business.</em></center>
 
 <br>I know we’re going through some crazy times right now, but I’m remaining committed to you and increasing your real estate I.Q. The sharper we are when it comes to knowledge in the field, the better off we will be.
 
