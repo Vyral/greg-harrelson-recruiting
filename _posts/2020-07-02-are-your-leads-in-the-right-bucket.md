@@ -18,7 +18,7 @@ youtube_code: D2PN95nEzus
 
 <center><em>Now&rsquo;s a great time to make contacts for future business.</em></center>
 
-<br>I know we’re going through some crazy times right now, but I’m remaining committed to you and increasing your real estate I.Q. The sharper we are when it comes to knowledge in the field, the better off we will be.
+<br>I know we’re going through some crazy times right now, but I’m remaining committed to you and increasing your real estate IQ. The sharper we are when it comes to knowledge in the field, the better off we will be.
 
 **One thing you can be doing right now to build your business without contact is *making* contacts**. I’m not saying that you need to be out there trying to convince every single prospect to sell or buy, you just need to be in communication with them. You need to communicate with them regularly and focus your conversations on gathering information and collecting details. The most important detail to focus on is their estimated timeframe. From there, you can organize them in your CRM based on their timeline.
 
