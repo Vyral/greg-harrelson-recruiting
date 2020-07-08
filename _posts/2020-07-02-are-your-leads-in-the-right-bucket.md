@@ -5,7 +5,8 @@ date: 2020-07-02 00:00:00
 tags:
   - Lead Conversion
 excerpt: Now’s a great time to make contacts for future business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/2020/Are+Your+Leads+in+the+Right+Bucket_.mp4
 pullquote: You want to know every prospect’s timeline no matter how far off it is.
 enclosure_type: video/mp4
 enclosure_time:
