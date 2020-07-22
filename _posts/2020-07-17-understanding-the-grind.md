@@ -6,7 +6,8 @@ tags:
   - Transaction Management
   - Lead Generation
 excerpt: You may be misunderstanding what ‘the daily grind’ truly means.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/2020/Understanding+the+Grind.mp4
 pullquote: Go out there and make things happen!
 enclosure_type: video/mp4
 enclosure_time:
