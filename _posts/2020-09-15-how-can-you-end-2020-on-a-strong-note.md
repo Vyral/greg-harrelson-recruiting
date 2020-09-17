@@ -5,7 +5,8 @@ date: 2020-09-15 00:00:00
 tags:
   - Transaction Management
 excerpt: It’s time to focus on ending 2020 on a strong note.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Greg+Harrelson/Videos/2020/How+Can+You+End+2020+on+a+Strong+Note_.mp4
 pullquote: 'Instead of giving up, get pumped up.'
 enclosure_type: video/mp4
 enclosure_time:
